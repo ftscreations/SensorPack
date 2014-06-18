@@ -57,12 +57,11 @@
       android:onClick="off"
       android:text="@string/off" />
 
-   <ListView
+   <ListView 
       android:id="@+id/listView1"
       android:layout_width="match_parent"
-      android:layout_height="wrap_content"
-      android:visibility="visible" >
-   </ListView>
+  	  android:layout_height="match_parent"
+  	  android:background="#EEEEEE" />
 
    </LinearLayout>
 </ScrollView>

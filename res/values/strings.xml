@@ -9,5 +9,6 @@
    <string name="off">Turn Off</string>
    <string name="Visible">Get Visible</string>
    <string name="List">List Devices</string>
-
+   <string name="list_is_empty">Empty list</string>
+   
 </resources>
